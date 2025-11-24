@@ -7,7 +7,8 @@ Opiskelijanumero: 151946754
 
 def main():
 
-    print("Hello World!")
+    print("Hello world!")
 
 if __name__ == "__main__":
     main()
+print("Hello from feature")
